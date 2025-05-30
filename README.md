@@ -31,13 +31,11 @@ Welcome to my GitHub! I'm a passionate and driven learner in the field of **Data
 ## 🤝 Let’s Connect
 
 - 📨 Interested in collaborating on a data-driven project?
-- 🌐 [LinkedIn or personal site if you have one]
-- 📫 Reach me here on GitHub or by email (optional)
+- 🌐 https://www.linkedin.com/in/viktor-kliufinskyi-9ab6b92bb/
 
 ## 😄 Fun Facts
 
 - 🎮 Gamer at heart — especially into **Path of Exile 2**
-- 💬 I speak English and Ukrainian
 - 🤓 Always curious, always coding
 
 ---
