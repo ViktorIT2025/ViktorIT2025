@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Data Science programming
 - 📫 How to reach me 
 - 😄 Pronouns: Viktor
-- ⚡ Fun fact: I'm very shy
 
 <!---
 ViktorIT2025/ViktorIT2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
