@@ -1,44 +1,72 @@
-# 👋 Hi, I’m Viktor — @ViktorIT2025
+👋 Hi, I'm Viktor - @ViktorIT2025
 
-Welcome to my GitHub! I'm a passionate and driven learner in the field of **Data Science** and **AI**.
+🚀 Data Scientist | AI & ML Engineer in Training | Generative AI & Analytics
 
-## 🔧 About Me
+Welcome to my GitHub! I build real-world, data-driven solutions at the intersection of Data Science, Machine Learning, and Applied AI - turning complex problems into actionable insights and intelligent systems.
 
-- 💻 I’m currently studying **Computer Science** and enrolled in the **TripleTen Data Science bootcamp**
-- 📊 Focused on mastering Python, machine learning, and data analysis
-- 🌱 Actively building projects with real-world data — from sentiment analysis to music trend exploration
-- 💡 I love solving data-driven problems, automating tasks, and discovering insights through visualization
-- 📍 Based in Chicago, open to remote collaborations
+🔧 About Me
 
-## 📚 My Tech Stack
+💻 Computer Science student & TripleTen Data Science graduate
+📊 Strong focus on Python, ML modeling, NLP, and data-driven decision making
+🧠 Experienced in end-to-end projects: data ingestion → modeling → evaluation → deployment
+🤖 Actively exploring Generative AI & prompt engineering for visual, text, and analytical workflows
+📍 Based in Chicago, IL | Open to remote & hybrid collaborations
 
-- **Languages:** Python, SQL (learning HTML/CSS & JavaScript)
-- **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn, Plotly, spaCy
-- **Tools:** Jupyter Notebook, Git/GitHub, VS Code, Dash
+📚 Tech Stack
 
-## 🚀 What I’m Working On
+Languages
 
-- A sentiment classifier using **TF-IDF**, **LightGBM**, and **BERT embeddings**
-- An interactive **Dash dashboard** analyzing Spotify music trends
-- Participating in **TripleTen Code Jams** and group projects with hands-on collaboration
+Python, SQL
 
-## 🎯 Goals
+HTML/CSS & JavaScript (foundational)
 
-- Finish TripleTen and transition into a full-time Data Science or ML role
-- Contribute to open-source projects and grow a strong portfolio
-- Keep learning advanced tools like TensorFlow, Docker, and NLP pipelines
+Libraries & Frameworks
 
-## 🤝 Let’s Connect
+pandas, NumPy, scikit-learn, LightGBM
 
-- 📨 Interested in collaborating on a data-driven project?
-- 🌐 https://www.linkedin.com/in/viktor-kliufinskyi-9ab6b92bb/
+matplotlib, seaborn, Plotly, Dash
 
-## 😄 Fun Facts
+spaCy, NLP pipelines, TF-IDF, embeddings
 
-- 🎮 Gamer at heart — especially into **Path of Exile 2**
-- 🤓 Always curious, always coding
+Tools & Platforms
 
----
+Jupyter Notebook, Git/GitHub, VS Code
 
-**Thanks for visiting my profile! Feel free to explore my projects and reach out.**
+Streamlit, Dash
+
+Hugging Face (experimentation)
+
+Generative AI tools (LLM-assisted workflows, prompt design)
+
+🚀 What I'm Working On
+
+🔹 IMDB Sentiment Classification
+ML & NLP pipeline using TF-IDF, LightGBM, and BERT embeddings with strong evaluation metrics
+
+🔹 Spotify Music Trends Dashboard
+Interactive Dash app analyzing popularity, audio features, and genre dynamics
+
+🔹 Real-World Externships & Code Jams
+Hands-on experience delivering analytics and ML solutions through TripleTen externships and team projects
+
+🔹 Generative AI Experiments
+Prompt engineering, AI-assisted storytelling, and structured workflows across image, text, and motion tools
+
+🎯 Goals
+
+🎯 Secure a Data Science / ML / Applied AI internship or early-career role
+📈 Continue building production-ready, portfolio-grade projects
+🧠 Deepen expertise in LLMs, NLP systems, Docker, and MLOps fundamentals
+🌍 Contribute to open-source and collaborative AI projects
+
+🤝 Let's Connect
+
+📨 Open to collaboration on data, ML, or AI-powered projects
+🔗 LinkedIn:
+👉 https://www.linkedin.com/in/viktor-kliufinskyi-9ab6b92bb/
+
+😄 Fun Facts
+
+🎮 Gamer at heart - currently deep into Path of Exile 2
+🤓 Always curious, always building — learning never stops
 
