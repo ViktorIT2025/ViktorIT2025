@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Viktor - @ViktorIT2025
+# 👋 Hi, I’m Viktor!
 
 ### Data Science Student at UIC | Python, SQL & Machine Learning | Console Operator I at Deluxe
 
