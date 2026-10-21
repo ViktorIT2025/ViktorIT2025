@@ -14,7 +14,7 @@ I enjoy working with data, building useful applications, and understanding how s
 
 ## 📚 Tech Stack:
 
-**Languages:** Python, SQL · Foundational HTML, CSS, and JavaScript  
+**Languages:** Python, SQL - Foundational HTML, CSS, and JavaScript  
 **Data Analysis:** pandas, NumPy  
 **Machine Learning & NLP:** scikit-learn, LightGBM, spaCy, TF-IDF, embeddings  
 **Visualization & Apps:** Matplotlib, seaborn, Plotly, Dash, Streamlit  
